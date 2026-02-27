@@ -70,6 +70,10 @@ This system is designed for motor coordination and balance testing in rodents, c
 
 ---
 
+## ⚛ CIRCUIT DIAGRAM
+
+<img width="3000" height="1651" alt="CIRCUIT_DIAGRAM" src="https://github.com/user-attachments/assets/81a2412f-71d3-4095-9e57-a6e5206c51ff" />
+
 ## 🛠 Working Principle
 
 1. Motor rotates rod using NEMA17.  
