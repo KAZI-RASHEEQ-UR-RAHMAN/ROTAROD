@@ -1,4 +1,4 @@
-##🧪 Project Title :
+#🧪 Project Title :
 # Low-Cost Automated Rotarod Apparatus
 
 ## 🧪 Smart Rotarod System
