@@ -1,3 +1,6 @@
+Author: Kazi Rasheeq -Ur- Rahman Niloy
+Department: Electrical & Electronic Engineering (MAK-18)
+University: Bangladesh Army International University of Science & Technology (BAIUST)
 
 # Low-Cost Automated Rotarod Apparatus
 
