@@ -87,6 +87,16 @@ This system is designed for motor coordination and balance testing in rodents, c
 
 ---
 
+## 🔨 MECHANICAL DESIGN 
+#### FORNT
+![FRONT](https://github.com/user-attachments/assets/c7000346-3960-43a3-b93c-eb76c3e0fdac)
+#### BACK
+![BACK](https://github.com/user-attachments/assets/94eccc89-3704-4b81-ae4f-18551a0c982c)
+#### TOP
+![TOP](https://github.com/user-attachments/assets/ef8a5a4d-c3d4-4307-a7bd-279abb232e9d)
+#### SIDE
+![SIDE](https://github.com/user-attachments/assets/26ef24d3-a2c8-4a4d-80c6-62efe030778d)
+
 ## 📊 Applications
 
 - Neuroscience research  
